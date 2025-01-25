@@ -1,12 +1,12 @@
 # About CPU Flow
 
-CPU Flow is a customizable Rainmeter skin that visualizes your CPU's performance in real-time. It displays current and historical CPU usage and temperature using sleek line graphs and text, alongside the current average clock speed. The skin integrates with CoreTemp (by Alcpu) for temperature and clock speed data, while Rainmeter handles CPU usage metrics.
+CPU Flow is a customizable Rainmeter skin that visualizes your CPU's real-time performance. It displays current and historical CPU usage and temperature using sleek line graphs and text, alongside the current average clock speed. The skin integrates with CoreTemp (by Alcpu) for temperature and clock speed data, while Rainmeter handles CPU usage metrics.
 
 ![image](https://github.com/user-attachments/assets/909c04dd-4edb-418d-baae-6792b509044a)
 
 ## Customizable Graph Colors
 
-Each line graph can dynamically change colors based on user-defined thresholds, making it easy to monitor performance at a glance. These thresholds are fully customizable:
+Each line graph can dynamically change colors based on user-defined thresholds, making monitoring performance at a glance easy. These thresholds are fully customizable:
 
 **Temperature Line Graph**: By default, the line turns red if the CPU temperature exceeds 75°C.
 
@@ -22,7 +22,7 @@ Each line graph can dynamically change colors based on user-defined thresholds, 
 
 [Core Temp 1.18.1 or later](https://www.alcpu.com/CoreTemp/)
 
-Core Temp Plug 1.1 or later (included in Rainmeter installation)
+Core Temp Plugin 1.1 or later (included in Rainmeter installation)
 
 # Installation
 
